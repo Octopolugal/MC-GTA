@@ -15,8 +15,6 @@ This is the official repository for the ICML-2024 paper "MC-GTA: Metric-Constrai
 
 MC-GTA is a model-based, multivariate clustering algorithm that considers complex metric constraints. It clusters observations that are both similar in terms of features and close in terms of metric distance. A wide range of realistic problems fall into this category, e.g. clustering of time series, spatially distributed POIs, or point clouds.
 
-![ALT TEXT](/figures/method.png)
-
 ## Method
 
 MC-GTA formulates the clustering objective as minimizing the penalized sum of goodness-of-fit test statistics. A pair of intra-cluster observations is expected to pass the goodness-of-fit test specified by the Wasserstein-2 distance between their underlying models. The criterion of passing such tests is a function of metric distance, i.e., our proposed generalized model-based semivariogram.
