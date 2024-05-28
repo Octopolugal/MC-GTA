@@ -30,3 +30,9 @@ For tutorial purpose, we use the first 5 dimensions of the Pavement data and MC-
 After archiving the data, we show how to do very swift hyperparameter tuning by grid search. Set `run_from_archive` to `True` to avoid duplicate intermediate computations. Here for demo purpose only, we split 200 random observations as validation set and tune the hyperparameters against it; after tuning, we apply the hyperparameters to cluster the rest of the dataset and achieve comparable performance. For real applications, you need a separate, independently labeled validation set and repeat the process above.
 
 The tuned hyperparameters achieve 92.76 ARI and 87.99 NMI on the validation set; and on the rest of the dataset, the same hyperparameters achieve 91.93 ARI and 88.33 NMI.
+
+## Correspondence
+
+For any questions, please feel free to contact Zhangyu Wang (zhangyuwang@ucsb.edu).
+
+## Cite Us
