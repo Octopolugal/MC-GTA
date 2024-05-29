@@ -2,7 +2,7 @@
  
 # MC-GTA: Metric-Constrained Model-Based Clustering using Goodness-of-fit Tests with Autocorrelations
 
-[![Paper](http://img.shields.io/badge/paper-arxiv.2405.18395-B31B1B.svg)]()
+[![Paper](http://img.shields.io/badge/paper-arxiv.2405.18395-B31B1B.svg)](http://arxiv.org/abs/2405.18395)
 [![Conference](https://img.shields.io/badge/ICML-2024-blue)]()
 
 ![ALT TEXT](/figures/intro-image.png)
