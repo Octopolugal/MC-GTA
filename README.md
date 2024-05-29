@@ -36,3 +36,16 @@ The tuned hyperparameters achieve 92.76 ARI and 87.99 NMI on the validation set;
 For any questions, please feel free to contact Zhangyu Wang (zhangyuwang@ucsb.edu).
 
 ## Cite Us
+
+If you find MC-GTA beneficial for your research, please consider citing us with the following BibTeX entry:
+
+```
+@misc{wang2024mcgta,
+      title={MC-GTA: Metric-Constrained Model-Based Clustering using Goodness-of-fit Tests with Autocorrelations}, 
+      author={Zhangyu Wang and Gengchen Mai and Krzysztof Janowicz and Ni Lao},
+      year={2024},
+      eprint={2405.18395},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
